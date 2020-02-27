@@ -1,0 +1,9 @@
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\obj\Debug\personcar.csprojAssemblyReference.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\obj\Debug\personcar.Form1.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\obj\Debug\personcar.Properties.Resources.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\obj\Debug\personcar.csproj.GenerateResource.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\bin\Debug\personcar.exe.config
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\bin\Debug\personcar.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\bin\Debug\personcar.pdb
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\obj\Debug\personcar.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\personcar\personcar\obj\Debug\personcar.pdb

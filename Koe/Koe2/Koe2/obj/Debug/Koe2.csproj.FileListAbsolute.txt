@@ -1,0 +1,9 @@
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\bin\Debug\Koe2.exe.config
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\bin\Debug\Koe2.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\bin\Debug\Koe2.pdb
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\obj\Debug\Koe2.csprojAssemblyReference.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\obj\Debug\Koe2.Form1.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\obj\Debug\Koe2.Properties.Resources.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\obj\Debug\Koe2.csproj.GenerateResource.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\obj\Debug\Koe2.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Koe\Koe2\Koe2\obj\Debug\Koe2.pdb

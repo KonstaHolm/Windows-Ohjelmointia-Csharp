@@ -1,0 +1,11 @@
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\bin\Debug\netcoreapp3.1\HeiMkonsoli.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\bin\Debug\netcoreapp3.1\HeiMkonsoli.deps.json
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\bin\Debug\netcoreapp3.1\HeiMkonsoli.runtimeconfig.json
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\bin\Debug\netcoreapp3.1\HeiMkonsoli.runtimeconfig.dev.json
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\bin\Debug\netcoreapp3.1\HeiMkonsoli.dll
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\bin\Debug\netcoreapp3.1\HeiMkonsoli.pdb
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\obj\Debug\netcoreapp3.1\HeiMkonsoli.csprojAssemblyReference.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\obj\Debug\netcoreapp3.1\HeiMkonsoli.AssemblyInfoInputs.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\obj\Debug\netcoreapp3.1\HeiMkonsoli.AssemblyInfo.cs
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\obj\Debug\netcoreapp3.1\HeiMkonsoli.dll
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HeiMkonsoli\obj\Debug\netcoreapp3.1\HeiMkonsoli.pdb

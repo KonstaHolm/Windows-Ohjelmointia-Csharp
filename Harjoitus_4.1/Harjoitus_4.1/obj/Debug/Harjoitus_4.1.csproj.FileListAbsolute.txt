@@ -1,0 +1,9 @@
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\obj\Debug\Harjoitus_4.1.csprojAssemblyReference.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\obj\Debug\Harjoitus_4._1.Form1.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\obj\Debug\Harjoitus_4._1.Properties.Resources.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\obj\Debug\Harjoitus_4.1.csproj.GenerateResource.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\bin\Debug\Harjoitus_4.1.exe.config
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\bin\Debug\Harjoitus_4.1.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\bin\Debug\Harjoitus_4.1.pdb
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\obj\Debug\Harjoitus_4.1.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\Harjoitus_4.1\Harjoitus_4.1\obj\Debug\Harjoitus_4.1.pdb

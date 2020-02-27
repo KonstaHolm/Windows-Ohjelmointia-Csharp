@@ -1,0 +1,9 @@
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\bin\Debug\HelloWforms.exe.config
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\bin\Debug\HelloWforms.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\bin\Debug\HelloWforms.pdb
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\obj\Debug\HelloWforms.csprojAssemblyReference.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\obj\Debug\HelloWforms.Properties.Resources.resources
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\obj\Debug\HelloWforms.csproj.GenerateResource.cache
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\obj\Debug\HelloWforms.exe
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\obj\Debug\HelloWforms.pdb
+C:\Koulu\Windows-ohjelmointi\Materiaaleja-20200107\koodeja\HelloWforms\HelloWforms\obj\Debug\HelloWforms.First.resources
